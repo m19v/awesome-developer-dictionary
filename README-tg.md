@@ -73,14 +73,14 @@ All the translations for this repo will be listed below:
 - **application (software)**: барнома ё гурӯҳи барномаҳое, ки барои корбарони ниҳоӣ пешбинӣ шудаанд.
 - **API (application programming interface)**: нармафзори миёнараве, ки ба ду ё зиёда барномаҳо имкон медиҳад, ки бо ҳамдигар сӯҳбат кунанд.
 - **Application Security**: Амнияти барномаҳо раванди амнтар кардани барномаҳо тавассути дарёфт, ислоҳ ва беҳбуди амнияти он мебошад. Амнияти барнома тадбирҳоеро дар бар мегирад, ки барои беҳтар кардани амнияти барнома аксар вақт тавассути дарёфт, ислоҳ ва пешгирии осебпазирии амният андешида мешаванд. Аксари ин дар марҳилаи таҳияи барнома рух медиҳад, илова бар ин абзорҳо ва усулҳои муҳофизати барномаҳо пас аз бакордаровандани онҳо истифода мешаванд.
-- **argument**: a value that is passed to a function (as input) when it is called.
-- **array**: a data structure consisting of a collection of elements, values, or variables each identified by at least one array index or key. _see [list](#L)_
-- **artificial general intelligence**: a non-human mechanism that demonstrates a broad range of problem solving, creativity, and adaptability. For example, a program demonstrating artificial general intelligence could translate text, compose symphonies, and excel at games that have not yet been invented.
-- **artificial intelligence**: a non-human program or model that can solve sophisticated tasks.
-- **attribute**: Information about elements of a component in your website design/build.
-- **augmented reality**: A technology that superimposes a computer-generated image on a user's view of the real world, thus providing a composite view.
-- **authentication**: Authentication is the process of verifying identity e.g. a user’s identity. It might involve validating personal identity documents, verifying the authenticity of a website with a digital certificate, determining the age of an artifact by carbon dating, or ensuring that a product or document is not counterfeit. It is the mechanism of associating an incoming request with a set of identifying credentials.
-- **authorization**: Authorization is the function of specifying access rights/privileges to resources, which is related to information security and computer security in general and to access control in particular. More formally, "to authorize" is to define an access policy.
+- **argument**: қимате, ки ҳангоми даъвати функсия (ҳамчун вуруд) ба он дода мешавад.
+- **array**: сохтори додаҳо, ки аз маҷмӯи элементҳо, қимматҳо ё тағирёбандаҳо иборат аст, ки ҳар кадоме ҳадди аққал бо як индекс ё калиди массив муайян карда шудааст. _Ҳамчунин нигаред [list](#L)_
+- **artificial general intelligence**: зеҳни умумии сунъӣ ин механизми ғайриинсониест, ки доираи васеи ҳалли мушкилот, эҷодкорӣ ва мутобиқшавиро инъикос мекунад. Масалан, барномае, ки зеҳни умумии сунъиро инъикос мекунад, метавонад матнро тарҷума кунад, симфонияҳо эҷод кунад ва дар бозиҳои ҳанӯз ихтироънашуда бартарӣ нишон диҳад.
+- **artificial intelligence**: барнома ё модели ғайриинсонӣ, ки метавонад вазифаҳои мураккабро ҳал кунад.
+- **attribute**: Маълумот ва ё хосияти элементҳои компоненти тарҳрезӣ ва сохтори вебсайти шумо.
+- **augmented reality**: Технологияе, ки тасвири дар роёна тавлидшударо дар назари корбар ба ҷаҳони воқеӣ ҷойгир мекунад ва ба ин васила манзараи таркибӣ медиҳад.
+- **authentication**: асолатсанҷӣ ва ё худ аутентификатсия раванди тасдиқи шахсият аст, масалан. шахсияти корбар. Он метавонад тасдиқи ҳуҷҷатҳои шахсӣ, тасдиқи ҳақиқии вебсайт бо гувоҳиномаи рақамӣ, муайян кардани синну соли дастсохта (артефакт) тавассути синёбии карбунӣ ё кафолат додани қалбакӣ набудани маҳсулот ё ҳуҷҷатро дар бар гирад. Ин механизми пайваст кардани дархости воридотӣ бо маҷмӯи маълумотҳои мушаххаскунанда мебошад.
+- **authorization**: раванди муайян кардани ҳуқуқ, имтиёзҳои дастрасӣ ба захираҳо ва додаҳо мебошад, ки ба амнияти иттилоотӣ ва амнияти роёна дар маҷмӯъ ва аз ҷумла ба назорати дастрасӣ алоқаманд аст. Ба таври расмӣ, "to authorize - иҷозат додан" ин муайян кардани сиёсати дастрасӣ (ба захираҳо ва додаҳо) мебошад.
 
 ## B
 
