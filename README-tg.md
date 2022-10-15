@@ -60,19 +60,19 @@ All the translations for this repo will be listed below:
 <hr>
 
 ## #
-- **404**: an error message when what was requested cannot be found; often because the link that was requested is broken.
+- **404**: паёми хатогӣ, вақте ки чизи дархостшуда пайдо карда намешавад; аксар вақт аз сабаби он ки пайванде, ки дархост карда шудааст, вайрон мешавад.
 
 ## A
 
-- **abstraction**: a technique for arranging complexity of computer systems.
-- **active learning**: A training approach in which the algorithm chooses some of the data it learns from.
-- **adaptive design**: The way in which a website is built determines how it appears on different devices. Adaptive design creates a website in several different layouts, each suited for different screen sizes. Depending on what device is being used to access the website, the website will adapt and deliver the appropriate layout. See also: responsive design and mobile-first.
-- **agile**: the ability to create and respond to change.
-- **Agile software development**: software development methodologies that focus on iterative development.
-- **algorithm**: the basic technique used to get the job done.
-- **application (software)**: a program or group of programs designed for end users.
-- **API (application programming interface)**: an intermediary software that allows two or more applications to talk to each other.
-- **Application Security**: Application security is the process of making apps more secure by finding, fixing, and enhancing the security of apps. Application security encompasses measures taken to improve the security of an application often by finding, fixing and preventing security vulnerabilities. Much of this happens during the development phase, but it includes tools and methods to protect apps once they are deployed.
+- **abstraction**: дар соҳаи муҳандиси нармафзор ва улуми компютерӣ абстраксия ин раванди аз байн бурдани тафсилоти физикӣ, фазоӣ, вақтӣ ва ё хосиятҳо дар омӯзиши объектҳо ё системаҳо, барои тамаркуз, диққат додан ба ҷузъиёти муҳимтар.
+- **active learning**: Равиши омӯзишӣ, ки дар он алгоритм баъзе маълумотҳои аз он омӯхтаашро интихоб мекунад.
+- **adaptive design**: Тарзи сохтани вебсайт муайян мекунад, ки он дар дастгоҳҳои гуногун чӣ гуна дар рӯяи сафҳаи намоиш пайдо мешавад. Тарҳрезии мутобиқшаванда (адаптивӣ) вебсайтро дар якчанд тарҳҳои гуногун эҷод мекунад, ки ҳар яки онҳо барои андозаҳои гуногуни сафҳаи намоиш мувофиқанд. Вобаста аз он, ки кадом дастгоҳ барои дастрасӣ ба вебсайт истифода мешавад, вебсайт тарҳбандии мувофиқро мутобиқ ва пешкаш мекунад. Ҳамчунин нигаред: responsive design and mobile-first.
+- **agile**: қобилияти cохтан ва вокуниш ба тағирот.
+- **Agile software development**: методологияи таҳияи нармафзор, ки ба рушди такроршаванда (итеративӣ) тамаркуз мекунанд.
+- **algorithm**: техникаи асосие, ки барои ичро ва ба итмом расонидани кор истифода мешавад.
+- **application (software)**: барнома ё гурӯҳи барномаҳое, ки барои корбарони ниҳоӣ пешбинӣ шудаанд.
+- **API (application programming interface)**: нармафзори миёнараве, ки ба ду ё зиёда барномаҳо имкон медиҳад, ки бо ҳамдигар сӯҳбат кунанд.
+- **Application Security**: Амнияти барномаҳо раванди амнтар кардани барномаҳо тавассути дарёфт, ислоҳ ва беҳтар кардани амнияти барномаҳо мебошад. Амнияти барнома тадбирҳоеро дар бар мегирад, ки барои беҳтар кардани амнияти барнома аксар вақт тавассути дарёфт, ислоҳ ва пешгирии осебпазирии амният андешида мешаванд. Аксари ин дар марҳилаи таҳияи барнома рух медиҳад, илова бар ин абзорҳо ва усулҳои муҳофизати барномаҳо пас аз бакордаровандани онҳо истифода мешаванд.
 - **argument**: a value that is passed to a function (as input) when it is called.
 - **array**: a data structure consisting of a collection of elements, values, or variables each identified by at least one array index or key. _see [list](#L)_
 - **artificial general intelligence**: a non-human mechanism that demonstrates a broad range of problem solving, creativity, and adaptability. For example, a program demonstrating artificial general intelligence could translate text, compose symphonies, and excel at games that have not yet been invented.
