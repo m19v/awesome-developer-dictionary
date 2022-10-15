@@ -3,7 +3,7 @@
   <img src="https://mystickermania.com/cdn/stickers/school/dinosaur-books-512x512.png" width="200" alt="Dictionary">
   <br/>
   <h2>Awesome Developer Dictionary</h2>
-  <p align="center">Simple definitions of Programming terms</p>
+  <p align="center">Таърифҳои оддии истилоҳоти барномасозӣ</p>
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 [![Awesome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
@@ -13,11 +13,11 @@
 
 ## Introduction
 
-This project was created with the intention of helping developers, both experts and beginners, get a basic understanding of some terms used in the programming world.
+Ин лоиҳа бо мақсади кӯмак ба барноманависон, ҳам коршиносон ва ҳам шурӯъкунандагон, барои гирифтани фаҳмиши умумии истилоҳоте, ки дар ҷаҳони барномасозӣ истифода мешаванд, сохта шудааст.
 
 ## Community
 
-Feel free to submit a PR adding a new term with a definition. If you want to translate the repo into your native language, please feel free to do so.
+Лутфан барои ба забони модарии худ тарҷума кардани ин репозитория, худро озод ҳис кунед. Шумо инчунин метавонед барои иловаи истилоҳи нав бо таърифи он бо фиристодани PR (pull request) саҳми худро гузоред.
 
 All the translations for this repo will be listed below:
 
@@ -26,6 +26,7 @@ All the translations for this repo will be listed below:
 - [Indonesian](./README-id.md)
 - [Malaysian](./README-ms.md)
 - [Hindi](./README-hi.md)
+- [Tajik](./README-tg.md)
 
 ## Contents
 
