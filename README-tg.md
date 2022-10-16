@@ -84,16 +84,16 @@ All the translations for this repo will be listed below:
 
 ## B
 
-- **back end**: All of the behind-the-scenes digital operations that it takes to keep the front end of a website running, such as the coding, style, and plugins.
-- **binary operator**: an operator that takes two arguments.
-- **boilerplate**: A boilerplate is a collection of code snippets and assets that can be reused to boost development. 
-- **boolean**: a data type that has one of two possible values (usually denoted true and false).
-- **bootstrap**: Bootstrap is a free, open-source frontend framework for designing websites and web apps. Bootstrap includes HTML and CSS-based design templates for typography, forms, buttons, tables, navigation, modals and more, plus JavaScript plugins.
-- **branch**: a parallel world where you can create commits without introducing bugs into production code.
-- **browser**: The program you use to access the Web — such as Chrome, Firefox, or Safari.
-- **bug**: an error in the source code that causes a program to produce unexpected results.
-- **buffer**: a sequential section of memory allocated to contain anything from a character string to an array of integers.
-- **buffer overflow**: a condition that exists when a program attempts to put more data in a buffer than it can hold.
+- **back end**: Ҳама амалиётҳои рақамии паси саҳна, ки барои нигоҳ доштани қисми фронтенди вебсайт лозиманд, ба монанди кодгузорӣ, услуб ва плагинҳо.
+- **binary operator**: операторе, ки ду аргумент мегирад.
+- **boilerplate**: маҷмӯаи пораҳои кодҳо ва дороиҳост, ки метавонанд барои тезонидани раванди барноманависӣ дубора истифода шаванд.
+- **boolean**: навъи додаҳо, ки яке аз ду қимати имконпазирро дорад (одатан true - дуруст ва false - нодурустро ифода мекунанд).
+- **bootstrap**: Bootstrap як framework-и ройгон ва кушодаасос барои тарҳрезии вебсайтҳо ва барномаҳои веб мебошад. Bootstrap намунаҳои тарроҳии HTML ва CSS-ро барои типография, формаҳо, тугмаҳо, ҷадвалҳо, паймоиш, модалҳо ва инчунин плагинҳои JavaScript дар бар мегирад.
+- **branch**: ҷаҳони мувозӣ, ки дар он шумо метавонед бидуни ворид кардани хатоҳо ба коди истеҳсолӣ commit-ҳо ба иҷро расонед.
+- **browser**: Барномае, ки шумо барои дастрасӣ ба Веб истифода мебаред - ба монанди Chrome, Firefox, or Safari.
+- **bug**: хато дар коди манобеъ, ки боиси ба даст овардани натиҷаҳои ғайричашмдошти барнома мегардад.
+- **buffer**: қисмати пайдарпайи хотира, ки барои нагаҳ доштани ҳама чиз шуруъ аз сатри аломатҳо то массиви ададҳо ҷудо карда шудааст.
+- **buffer overflow**: шарте, ки дар он барнома кушиши ба буфер ҷой кардани маълумоти бештареро нисбат ба қобилияти нигаҳдории он дорад.
 
 ## C
 
